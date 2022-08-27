@@ -5,7 +5,8 @@
  - I read text messages but I will never reply and I usually never answer my phone
  
  ### 😄 I do my best work when...
- - I listen to music
+ - The working environment is quite. 
+ 
  
 <!--
 
