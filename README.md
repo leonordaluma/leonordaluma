@@ -7,7 +7,6 @@
  ### 😄 I do my best work when...
  - The working environment is quite. 
  
- 
 <!--
 
 ### 🔭 I’m currently working on ...
