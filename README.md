@@ -4,9 +4,11 @@
  - Email is the quickest way to get a response from me
  - I read text messages but I will never reply and I usually never answer my phone
  
- ### 😄 I do my best work when...
- - The working environment is quite. 
+ ### 😄 I do my best work when ...
+ - I prefer a quite working environment
  
+### 👯 I’m looking to collaborate on ...
+ - NFTs
 <!--
 
 ### 🔭 I’m currently working on ...
