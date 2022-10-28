@@ -10,6 +10,7 @@
 ### 🤔 I’m looking for help with ... 
  - Blockchain
  - NFT Smart Contracts
+ - Cryptocurrency
  
 <!--
 
