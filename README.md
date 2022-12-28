@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=leonordaluma&color=lightgrey&style=flat-square)
+
 ## Hello there 👋
 
 ### 📫 My communication preferences are ...
