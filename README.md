@@ -10,17 +10,22 @@
  - I prefer a quite working environment
  
 ### 🤔 I’m looking for help with ... 
- - Blockchain
+ - Blockchain Technology
  - NFT Smart Contracts
  - Cryptocurrency
  
  ### 🔭 I’m currently working on ...
  - Discord bots
- - NFT Project
+ - Django Projects
  
  ### 🌱 I’m currently learning ...
- - Networking and Security Concepts
- - Hardware Skills
+ - Rust
+ - Bulma
+ - Polkadot Blockchain Platform
+
+### ⚡ Other things to know about me ...
+- I understand how to navigate the constantly evolving tech landscape
+- I can quickly adapt to new tools and frameworks
 <!--
 
 
@@ -29,5 +34,5 @@
 ### 🤔 I’m looking for help with ... 
 ### 👯 I’m looking to collaborate on ... 
 ### 💬 Ask me about ...
-### ⚡ Other things to know about me ...
+
 --! >
