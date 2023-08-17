@@ -11,7 +11,6 @@
  
 ### 🤔 I’m looking for help with ... 
  - Blockchain Technology
- - NFT Smart Contracts
  - Cryptocurrency
  
  ### 🔭 I’m currently working on ...
@@ -19,12 +18,10 @@
  - Django Projects
  
  ### 🌱 I’m currently learning ...
- - Rust
- - Bulma
+ - Tailwindcss
  - Polkadot Blockchain Platform
 
 ### ⚡ Other things to know about me ...
-- I understand how to navigate the constantly evolving tech landscape
 - I can quickly adapt to new tools and frameworks
 <!--
 
